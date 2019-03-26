@@ -1,9 +1,11 @@
 
 body {
-  background-color: gray;
+  background-color:gold;
+  text-align: justify;
 }
 h1 {
   color: blue;
+
 }
 p {
   color: purple;
@@ -11,5 +13,5 @@ p {
 
 img
 {width:200px;}
-h1{font-size:50px; color:blue; text-align:center
+h1{font-size:50px; color:blue; text-align:left;
 }
