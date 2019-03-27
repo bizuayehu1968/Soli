@@ -1,13 +1,12 @@
 
 body {
-  background-color:lightblue;
-  text-align: justify;
+  background-color:linen;
+  text-align: justify;font-family: "Times New Roman",Times,serif;
 }
 
 p {
-  color: purple;
+  color:purple;
 }
-
 img
 {width:200px;float: left;
 }
@@ -19,3 +18,5 @@ h3{font-size:20px; color:green; text-align:left;
 }
 h4{font-size:20px; color:green; text-align:center;
 }
+header{font-size:20px;text-align:left; padding: 10px 5px 5px 10px;}
+footer{font-size:20px;text-align:left;}
