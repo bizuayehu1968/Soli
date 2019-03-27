@@ -1,17 +1,21 @@
 
 body {
-  background-color:gold;
+  background-color:lightblue;
   text-align: justify;
 }
-h1 {
-  color: blue;
 
-}
 p {
   color: purple;
 }
 
 img
-{width:200px;}
-h1{font-size:50px; color:blue; text-align:left;
+{width:200px;float: right;
+}
+h1{font-size:30px; color:lightblue; text-align:center;
+}
+h2{font-size:20px; color:green; text-align:left;
+}
+h3{font-size:20px; color:green; text-align:left;
+}
+h4{font-size:20px; color:green; text-align:center;
 }
