@@ -1,22 +1,65 @@
 
-body {
-  background-color:linen;
-  text-align: justify;font-family: "Times New Roman",Times,serif;
+  .background-image{
+    height:90%;
+    repeat:no-repeat;
+    size:cover;
+    width: 30%
+  }
+
+p{
+  text-align:justify;
+  font-family: Times,serif;
+  color: white;
+  width: 50%;
+  columns:
+
 }
 
-p {
-  color:purple;
+.storyPicture {
+  padding:0 70px 5px 0;
+  width:200px;
+  float:left;
+  height: 150px;
 }
-img
-{width:190px;float: left;
+.MypdfResume
+{
+  width:750px;
+  float:left;
+  height:500px;
+  padding:0 20px 5px 0;
 }
-h1{font-size:30px; color:lightblue; text-align:center;
+h1{font-size:30px; color:gold; text-align:left;
 }
 h2{font-size:20px; color:green; text-align:left;
 }
-h3{font-size:20px; color:green; text-align:left;
+h3{font-size:20px; color:blue; text-align:left;
 }
 h4{font-size:20px; color:green; text-align:center;
 }
-header{font-size:20px;text-align:left; padding: 10px 5px 5px 10px;}
-footer{font-size:20px;text-align:left;}
+header{
+  font-size:20px;
+  text-align:left;
+  padding: 10px 5px 5px 10px;
+}
+
+footer{
+  font-size:20px;
+  text-align:left;
+}
+.navLinkfooter{
+  color:green;
+  text-decoration: none;
+  padding: 50px 60px 40px 40px;
+}
+.navLinkheader{
+  color:green;
+  text-decoration: none;
+  padding: 50px 40px 50px 40px;
+}
+.navLink:hover {
+  text-decoration: underline;
+}
+
+.footerLink{
+  color: lightblue;
+}
