@@ -1,8 +1,7 @@
 
 body {
-    /* background: linear-gradient(to bottom, #3D7884 20%,#BDB76B 25%,#2D4C52 46%); */
+    background: linear-gradient(to bottom, #3D7884 20%,#BDB76B 25%,#2D4C52 46%);
     margin: 0;
-    background-color: #708090;
   }
 
 p{
