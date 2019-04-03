@@ -1,7 +1,8 @@
 
 body {
-    background: linear-gradient(to bottom, #3D7884 20%,#BDB76B 25%,#2D4C52 46%);
+    /* background: linear-gradient(to bottom, #3D7884 20%,#BDB76B 25%,#2D4C52 46%); */
     margin: 0;
+    background: linear-gradient(to left, #333, #333 50%, #eee 75%, #333 75%);
   }
 
 p{
@@ -34,7 +35,7 @@ a{
 }
 h1{font-size:30px; color:gold; text-align:left;
 }
-h2{font-size:20px; color:green; text-align:left;
+h2{font-size:20px; color:black; text-align:left;
 }
 h3{font-size:20px; color:blue; text-align:left;
 }
@@ -51,9 +52,11 @@ footer{
   text-align:left;
 }
 .navLinkfooter{
-  color:green;
-  text-decoration: none;
-  padding: 50px 60px 40px 40px;
+  color:black;
+  /* text-decoration: none; */
+  font-size: 25px;
+  font-weight: bold;
+  padding: 10px 0px 10px 40px;
 }
 .navLinkheader{
   color:black;
@@ -63,6 +66,9 @@ footer{
 }
 .footerLink{
   color: lightblue;
+}
+.networks{
+  text-decoration-color:yellow;
 }
 .text{
   color: black;
