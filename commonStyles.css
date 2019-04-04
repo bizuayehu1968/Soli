@@ -1,5 +1,5 @@
 
-body {
+.index {
     background: linear-gradient(to bottom, #3D7884 20%,#BDB76B 25%,#2D4C52 46%);
     margin: 0;
   }
@@ -68,7 +68,7 @@ footer{
 }
 .networks{
   text-decoration-color:yellow;
-  input:button
+  input
 }
 .text{
   color: black;
@@ -94,4 +94,15 @@ footer{
   font-size: 30px;
   font-weight: bold;
   font-style: sans-serif;
+}
+
+.contact{
+  background: linear-gradient(to bottom, #E6E6FA 80%,#E6E6FA 5%,#451E0A 15%);
+}
+.about {
+  background: linear-gradient(to bottom, #3D7884 10%,#EE82EE 30%,#BDB76B 46%);
+
+}
+.links{
+  background:linear-gradient(to bottom, #3D7884 10%,#90EE90 30%,#00FF7F 46%); ;
 }
