@@ -97,8 +97,9 @@ footer{
 }
 
 .contact{
-  background: linear-gradient(to bottom, #E6E6FA 80%,#E6E6FA 5%,#451E0A 15%);
+  background: linear-gradient(to bottom, #556B2F 80%,#DC143C 15%),#FF8C00 5%;
 }
+
 .about {
   background: linear-gradient(to bottom, #3D7884 10%,#EE82EE 30%,#BDB76B 46%);
 
