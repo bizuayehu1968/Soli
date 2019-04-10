@@ -1,9 +1,4 @@
 
-.index {
-    background: linear-gradient(to bottom, #3D7884 20%,#BDB76B 25%,#2D4C52 46%);
-    margin: 0;
-  }
-
 p{
   text-align:justify;
   font-family: Times,serif;
@@ -96,14 +91,7 @@ footer{
   font-style: sans-serif;
 }
 
-.contact{
-  background: linear-gradient(to bottom, #556B2F 80%,#DC143C 15%),#FF8C00 5%;
-}
-
-.about {
-  background: linear-gradient(to bottom, #3D7884 10%,#EE82EE 30%,#BDB76B 46%);
-
-}
-.links{
-  background:linear-gradient(to bottom, #3D7884 10%,#90EE90 30%,#00FF7F 46%); ;
-}
+.background{
+   background: linear-gradient(to bottom, #3D7884 20%,#BDB76B 25%,#2D4C52 46%);
+    margin: 0;
+  }
