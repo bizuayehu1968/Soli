@@ -20,7 +20,11 @@ a{
   height:350px;
   float: left;
   border-radius:45px;
+<<<<<<< HEAD
   padding-right:9px;
+=======
+  padding-right:6px;
+>>>>>>> 2c5ac35de9813ee0ecb74d7738da8d2dbedbdc95
 
 }
 .welcome{
@@ -104,6 +108,10 @@ footer{
   background: linear-gradient(to bottom, #3D7884 20%,#BDB76B 25%,#2D4C52 46%);
   margin: 0;
   border-style:solid;
+<<<<<<< HEAD
   border-color: yellow;
   border-spacing: inherit;
+=======
+  border-color: green;
+>>>>>>> 2c5ac35de9813ee0ecb74d7738da8d2dbedbdc95
   }
