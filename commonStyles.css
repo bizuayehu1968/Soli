@@ -1,15 +1,113 @@
+p{
+  text-align:justify;
+  font-family: Times,serif;
+  color: white;
+  width: 50%;
 
-.body {
-  background-color: powderblue;
 }
-h1 {
-  color: blue;
+.bah{
+  width:30%;
+  height: 400px;
+  border-radius:45px;
 }
-p {
-  color: purple;
+a{
+  text-decoration: none;
 }
 
-img
-{width:200px;}
-h1{font-size:50px; color:blue; text-align:center
+.storyPicture {
+  width:25%;
+  height:350px;
+  float: left;
+  border-radius:45px;
+<<<<<<< HEAD
+  padding-right:9px;
+=======
+  padding-right:6px;
+>>>>>>> 2c5ac35de9813ee0ecb74d7738da8d2dbedbdc95
+
 }
+.welcome{
+  text-rendering:geometricPrecision;
+  text-align: center;
+}
+
+.MypdfResume
+{
+  width:750px;
+  float:left;
+  height:500px;
+  padding:0 20px 5px 0;
+}
+h1{font-size:30px; color:gold; text-align:left;
+}
+h2{font-size:20px; color:black; text-align:left;
+}
+h3{font-size:20px; color:blue; text-align:left;
+}
+h4{font-size:20px; color:green; text-align:center;
+}
+header{
+  font-size:20px;
+  text-align:left;
+  padding: 10px 5px 5px 10px;
+}
+
+footer{
+  font-size:20px;
+  text-align:left;
+}
+.navLinkfooter{
+  color:black;
+  /* text-decoration: none; */
+  font-size: 25px;
+  font-weight: bold;
+  padding: 50px 60px 40px 40px;
+}
+.navLinkheader{
+  color:black;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 50px 40px 50px 40px;
+}
+.footerLink{
+  color: lightblue;
+}
+.networks{
+  text-decoration-color:yellow;
+  input
+}
+.text{
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+  width: 65%;
+  float: right;
+  height: 350px;
+  margin-left: 0px;
+  margin-right: 40px;
+
+
+}
+
+.input{
+  color: yellow;
+  font-size: 40px;
+  font-weight: bold;
+  font-style: Arial;
+}
+.info{
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  font-style: sans-serif;
+}
+
+.background{
+  background: linear-gradient(to bottom, #3D7884 20%,#BDB76B 25%,#2D4C52 46%);
+  margin: 0;
+  border-style:solid;
+  border-color: yellow;
+  border-spacing: inherit;
+  border-color: green;
+  }
