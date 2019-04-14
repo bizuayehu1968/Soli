@@ -3,17 +3,16 @@ p{
   font-family: Times,serif;
   color: white;
   width: 50%;
-
 }
 .bah{
   width:30%;
   height: 400px;
   border-radius:45px;
 }
+
 a{
   text-decoration: none;
 }
-
 .storyPicture {
   width:25%;
   height:350px;
